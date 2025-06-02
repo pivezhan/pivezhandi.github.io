@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my academic site! Here you'll find my research, projects, and updates
   related to my work as a scholar and researcher. Connect with me on social media.
 baseurl: "/my-academic-site" # the subpath of your site
-url: "https://pivezhandi.github.io" # the base hostname & protocol for your site
+url: "https://pivezhan.github.io" # the base hostname & protocol for your site
 x: pivezhan # Updated from twitter_username to x
 github_username: pivezhan
 tiktok: your_tiktok_username # Add your TikTok username here
